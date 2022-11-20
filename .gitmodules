@@ -1,0 +1,6 @@
+[submodule "midifile"]
+	path = midifile
+	url = https://github.com/craigsapp/midifile.git
+[submodule "glatter"]
+	path = glatter
+	url = https://github.com/imakris/glatter.git
