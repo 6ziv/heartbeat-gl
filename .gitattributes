@@ -1,0 +1,8 @@
+* text=auto
+*.c text
+*.cpp text
+*.h text
+*.hpp text
+*.tex text
+pdf/pdf_tailing_prefix.bin text eol=lf
+*.midi binary
